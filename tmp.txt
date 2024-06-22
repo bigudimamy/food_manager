@@ -1,4 +1,0 @@
-Color.fromARGB(255, 58, 60, 66), -- black
-Color.fromARGB(255, 243, 225, 199), -- white
-Color.fromARGB(255, 156, 205, 98), -- green
-Color.fromARGB(255, 223, 222, 202), -- orange
