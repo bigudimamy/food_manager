@@ -1,16 +1,13 @@
 # food_manager
 
-A new Flutter project.
+Менеджер питания.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Этот проект является моей дипломной работой.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+В данной работе я использовал Dart и Flutter, так же для реализации базы данных я использовал Firebase.
+Это проект мобильного приложения, которое позволяет пользователю разнообразить свой рацион питания и контролировать потребление тех или иных продуктов.
+Приложение предоставляет возможность подбирать подходящие для пользователя блюда, на основе выбранных им продуктов,
+формировать меню и отслеживать необходимые продукты для приготовления блюд.
+Так же реализован простой калькулятор КБЖУ, позволяющий рассчитать КБЖУ для потребляемых пользователем продуктов в зависимости от их веса.
