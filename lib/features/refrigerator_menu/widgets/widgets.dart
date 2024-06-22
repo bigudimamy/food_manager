@@ -1,0 +1,1 @@
+export 'refrigerator_menu_tile.dart';

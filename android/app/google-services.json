@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119388237470",
+    "project_id": "foodmanager-d14b5",
+    "storage_bucket": "foodmanager-d14b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119388237470:android:95cf6cdee41493dc9a958f",
+        "android_client_info": {
+          "package_name": "com.example.food_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8QLSVmpgO3GB_t6PLM2qBHUPzdIMIOI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

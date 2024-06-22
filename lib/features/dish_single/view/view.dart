@@ -1,0 +1,1 @@
+export 'dish_single_screen.dart';
